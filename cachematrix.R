@@ -94,4 +94,3 @@ cacheSolve <- function(x, ...) {
   message("Calculating inverse matrix")
   inver
 }
-}
